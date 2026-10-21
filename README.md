@@ -348,3 +348,5 @@ If you encounter problems using the script, please leave feedback in the Github 
 All data is handled locally on the device from which the script is run. The script does not transmit data to other parties like Stack Overflow. All API calls performed are read-only, so there is no risk of editing or adding content to your Stack Overflow for Teams instance.
 
 Blah blah blah
+
+Blah blah blah
